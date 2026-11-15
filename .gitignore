@@ -1,0 +1,16 @@
+# Arquivos do Obsidian que mudam a cada clique (não versionar)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.trash/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Segurança: nunca subir credenciais
+*.env
+*senha*
+*password*
