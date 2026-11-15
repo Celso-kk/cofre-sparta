@@ -10,6 +10,7 @@ atualizado: 2026-11-15
 Segundo cérebro da **SPARTA BRASIL Máquinas Industriais Ltda.** (Jaguariúna/SP), que importa, revende e representa trituradores florestais, cabeçotes trituradores e destocadores (Prinoth, Dipperfox) para supressão vegetal mecanizada.
 
 - Dono (100%) e Diretor Executivo: **Celso Kossaka**.
+- **Território:** a SPARTA BRASIL vende **somente no Brasil**. Fora do Brasil (Uruguai, Costa Rica etc.) quem atua é **Celso Kossaka, representante oficial da Prinoth GmbH**. Toda nota de cliente indica a entidade.
 - Meta-mãe: **R$ 15 MM de patrimônio líquido até nov/2031**, com a SPARTA vendável ou com novos sócios e Celso como conselheiro. Ver [[00_COMANDO/Plano 2031|Plano 2031]].
 - O cofre pessoal do Celso é **outro** (`cofre-pessoal`). Nada pessoal entra aqui.
 
