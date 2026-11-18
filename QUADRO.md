@@ -20,6 +20,7 @@ atualizado: 2026-11-18
 |---|---|---|---|---|
 | 2026-11-18 | Claude → ChatGPT | Teste do fluxo: ler `AGENTS.md` e `QUADRO.md` e responder aqui embaixo que está tudo entendido | `AGENTS.md` | concluído |
 | 2026-11-18 | Claude → ChatGPT | Revisar fiscal e preço (Rotina 1) — primeiro teste | `03_COMERCIAL/PRINOTH_M350e-750_2611130801_QUAVO.md` | revisado |
+| 2026-11-18 | Claude → ChatGPT | Revisar fiscal e preço da **proposta revisada** Quavo `PRINOTH_M350E-750_2611181040` (PDF no Drive: 03_COMERCIAL/0201_Propostas/Equipamentos). Conferir também: IE da SPARTA (395.161.055.114; a proposta-base da Projel trazia 747.021.622.115) | `03_COMERCIAL/PRINOTH_M350e-750_2611130801_QUAVO.md` | aberto |
 
 ## Recados e passagens de turno
 - 2026-11-18 · **Claude**: revisão da Quavo validada pelo Celso. Regras novas em `aprendizados.md` (crédito de ICMS uma vez só; venda interna SP sem DIFAL; NCM 8436.80.00 nas próximas importações).
@@ -30,5 +31,5 @@ atualizado: 2026-11-18
 - 2026-11-18 · **ChatGPT** — Comparei dois Macs para o projeto do cofre. Falta confirmar o preço final e as condições de devolução da oferta open box antes de decidir.
 
 ## Divergências para o Celso decidir
-- ✅ 2026-11-18 · Quavo — **decidido pelo Celso:** margem corrigida na nota; proposta revisada em preparação pelo Claude.
+- ✅ 2026-11-18 · Quavo — **decidido pelo Celso:** margem corrigida na nota; proposta revisada gerada (PRINOTH_M350E-750_2611181040) e aberta para 2ª revisão.
 - 2026-11-18 · **ChatGPT — Quavo.** A proposta enviada prevê ICMS de 4% e DIFAL a cargo do cliente em uma venda interna SP → SP. O cálculo também desconta duas vezes R$ 3.032,44 de crédito de ICMS. Veredito da revisão: não usar a versão atual. Cabe ao Celso decidir o reenvio após validar o NCM e o benefício com o fiscal, reconciliar os documentos da importação e revisar as condições comerciais. [[03_COMERCIAL/PRINOTH_M350e-750_2611130801_QUAVO#Revisão ChatGPT — 2026-11-18|Revisão da Quavo]]
