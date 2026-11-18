@@ -91,3 +91,6 @@ Nunca gravar senhas, logins, tokens, nem números de conta bancária ou de cart�
 1. Atualizar `hot.md` se algo mudou de status.
 2. Se o Celso corrigiu algo, registrar a regra nova em `aprendizados.md`.
 3. Gravar um log curto em `_CLAUDE/logs/AAAA-MM-DD.md`.
+
+## 11. Rotinas cruzadas com o ChatGPT
+- **Rotina 1 — Revisão de propostas:** toda proposta gerada vira nota em `03_COMERCIAL/` e abre um pedido "Revisar fiscal e preço" no `QUADRO.md`. Detalhes: [[_CLAUDE/specs/rotina-revisao-cruzada]].

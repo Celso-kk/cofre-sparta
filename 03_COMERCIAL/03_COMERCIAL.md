@@ -12,6 +12,9 @@ atualizado: 2026-11-15
 - **Negociações com as fábricas:** unidade demo Raptor 100, compra escalonada de cabeçotes em 2027.
 - **Distribuição:** representantes × revendas, vendedores regionais (Sul).
 
+## Revisão cruzada
+Toda proposta passa pela revisão do ChatGPT antes do envio (Rotina 1, ver `_CLAUDE/specs/rotina-revisao-cruzada.md`).
+
 ## Notas a migrar da memória do Claude
 - [ ] Precificação do M550e-1300
 - [ ] Raptor 100 + M450h-1450 usado (unidade demo)

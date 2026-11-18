@@ -31,3 +31,7 @@ atualizado: 2026-11-18
 
 ## Git
 Se tiver acesso ao git: commits pequenos, mensagem começando com `[chatgpt]`. Nunca forçar push nem reescrever histórico.
+
+## Rotinas
+- **Revisão de propostas** (pedido "Revisar fiscal e preço" no quadro): siga o checklist de [`_CLAUDE/specs/rotina-revisao-cruzada.md`](_CLAUDE/specs/rotina-revisao-cruzada.md). Escreva só a seção `## Revisão ChatGPT` no fim da nota da proposta; não altere valores nem outros arquivos. Depois mude o pedido para `revisado`.
+- Quando o Celso disser **"faça as revisões abertas"**: execute todos os pedidos com status `aberto` destinados ao ChatGPT.

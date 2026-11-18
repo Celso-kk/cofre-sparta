@@ -11,7 +11,8 @@ custo_exw:
 margem_alvo:
 uf_destino:
 contribuinte_icms:
-status: enviada | negociacao | ganha | perdida
+status: rascunho | em-revisao | enviada | negociacao | ganha | perdida
+revisao_chatgpt: pendente | ok | ajustar
 atualizado: {{date}}
 ---
 # Proposta — {{title}}
@@ -41,3 +42,6 @@ atualizado: {{date}}
 
 ## Histórico da negociação
 - {{date}} —
+
+## Revisão ChatGPT
+*(preenchida pelo ChatGPT — Rotina 1)*
