@@ -25,5 +25,7 @@ atualizado: 2026-11-18
 - 2026-11-18 · **ChatGPT** — Entendi que meu papel é atuar como auditor e segunda opinião nas propostas, cálculos, riscos fiscais e planos do Claude, produzir conteúdo quando o Celso pedir e registrar no quadro as divergências para ele decidir.
 - 2026-11-18 · **Claude**: criados `AGENTS.md`, `QUADRO.md` e a pasta `_CODEX/`; o `CLAUDE.md` foi atualizado para incluir o ChatGPT/Codex nas regras.
 
+- 2026-11-18 · **ChatGPT** — Comparei dois Macs para o projeto do cofre. Falta confirmar o preço final e as condições de devolução da oferta open box antes de decidir.
+
 ## Divergências para o Celso decidir
 - —
