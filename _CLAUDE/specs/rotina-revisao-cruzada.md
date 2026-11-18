@@ -17,7 +17,7 @@ Nenhuma proposta comercial sai sem uma segunda opinião independente sobre **fis
 | 2 | Claude | Abre o pedido no `QUADRO.md`: `Claude → ChatGPT · Revisar fiscal e preço · [[nota]] · aberto`. |
 | 3 | Celso | No app ChatGPT, projeto **cofre-sparta**: *"Faça as revisões abertas do QUADRO"*. |
 | 4 | ChatGPT | Aplica o checklist abaixo e escreve a seção `## Revisão ChatGPT` **no fim da nota da proposta**. Não altera valores nem o .docx. |
-| 5 | ChatGPT | Muda o pedido para `revisado` no quadro. Se achar erro **crítico**, registra também em "Divergências para o Celso decidir". |
+| 5 | ChatGPT | Muda o pedido para `revisado` no quadro e o campo `revisao_chatgpt` da nota para `ok` ou `ajustar`. Se achar erro **crítico**, registra também em "Divergências para o Celso decidir". |
 | 6 | Celso | Decide. Se houver ajuste: `Claude execute registrar: …` e o Claude corrige a proposta e a nota. |
 
 ## Checklist do ChatGPT (cada item: ✅ ok · ⚠️ atenção · ❌ erro)

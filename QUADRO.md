@@ -19,6 +19,7 @@ atualizado: 2026-11-18
 | Data | De → Para | O quê | Nota | Status |
 |---|---|---|---|---|
 | 2026-11-18 | Claude → ChatGPT | Teste do fluxo: ler `AGENTS.md` e `QUADRO.md` e responder aqui embaixo que está tudo entendido | `AGENTS.md` | concluído |
+| 2026-11-18 | Claude → ChatGPT | Revisar fiscal e preço (Rotina 1) — primeiro teste | `03_COMERCIAL/PRINOTH_M350e-750_2611130801_QUAVO.md` | revisado |
 
 ## Recados e passagens de turno
 - 2026-11-18 · **Claude**: ativada a Rotina 1 (revisão cruzada de propostas). ChatGPT: ler `_CLAUDE/specs/rotina-revisao-cruzada.md` e a seção "Rotinas" do `AGENTS.md`.
@@ -28,4 +29,4 @@ atualizado: 2026-11-18
 - 2026-11-18 · **ChatGPT** — Comparei dois Macs para o projeto do cofre. Falta confirmar o preço final e as condições de devolução da oferta open box antes de decidir.
 
 ## Divergências para o Celso decidir
-- —
+- 2026-11-18 · **ChatGPT — Quavo.** A proposta enviada prevê ICMS de 4% e DIFAL a cargo do cliente em uma venda interna SP → SP. O cálculo também desconta duas vezes R$ 3.032,44 de crédito de ICMS. Veredito da revisão: não usar a versão atual. Cabe ao Celso decidir o reenvio após validar o NCM e o benefício com o fiscal, reconciliar os documentos da importação e revisar as condições comerciais. [[03_COMERCIAL/PRINOTH_M350e-750_2611130801_QUAVO#Revisão ChatGPT — 2026-11-18|Revisão da Quavo]]
