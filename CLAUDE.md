@@ -1,6 +1,6 @@
 ---
 tipo: bussola
-atualizado: 2026-11-15
+atualizado: 2026-11-18
 ---
 # CLAUDE.md — Bússola do Cofre SPARTA
 
@@ -17,8 +17,9 @@ Segundo cérebro da **SPARTA BRASIL Máquinas Industriais Ltda.** (Jaguariúna/S
 1. `CLAUDE.md` (este arquivo)
 2. `aprendizados.md`: regras que nasceram de correções. **Obrigatório.**
 3. `hot.md`: o que está quente agora.
-4. `mapa.md`: só quando precisar localizar algo.
-5. Notas específicas: abrir sob demanda. **Nunca ler o cofre inteiro.**
+4. `QUADRO.md`: recados e passagem de turno com o ChatGPT/Codex.
+5. `mapa.md`: só quando precisar localizar algo.
+6. Notas específicas: abrir sob demanda. **Nunca ler o cofre inteiro.**
 
 ## 3. Os três fluxos: quem escreve onde
 | Área | Quem escreve | Regra para o Claude |
@@ -26,6 +27,8 @@ Segundo cérebro da **SPARTA BRASIL Máquinas Industriais Ltda.** (Jaguariúna/S
 | `_CELSO/` | Só o Celso | **Somente leitura.** Nunca criar, editar, mover ou apagar. |
 | Gavetas `00_COMANDO` … `99_ARQUIVO` | Celso e Claude | Pode criar e atualizar notas operacionais. Nota criada pelo Claude leva `autor: claude` e `status: rascunho` até o Celso validar (`status: validado`). Nunca apagar: mover para `99_ARQUIVO/`. |
 | `_CLAUDE/` | Claude | Autonomia total: logs, specs, rascunhos, skills. Podagem mensal. |
+| `_CODEX/` | ChatGPT/Codex | Somente leitura para o Claude. Regras do ChatGPT em `AGENTS.md`. |
+| `QUADRO.md` | Claude e ChatGPT | Ler no início; registrar o que fez, o que falta e os pedidos de revisão. Antes de editar uma nota, ver se ela está "em uso" pelo outro agente. |
 | `_INBOX/` | Celso (captura rápida) | Ler e propor triagem. Mover para a gaveta certa só com OK do Celso ou via `Claude execute arquivar`. |
 | `_MODELOS/` | Celso | Propor modelos novos em `_CLAUDE/specs/`. |
 
@@ -83,6 +86,7 @@ Nunca gravar senhas, logins, tokens, nem números de conta bancária ou de cart�
 - Em conflito, vale a nota `status: validado` mais recente. Registre a divergência em `aprendizados.md`.
 
 ## 10. Ao terminar uma sessão de trabalho
+0. Atualizar o `QUADRO.md` (passagem de turno).
 1. Atualizar `hot.md` se algo mudou de status.
 2. Se o Celso corrigiu algo, registrar a regra nova em `aprendizados.md`.
 3. Gravar um log curto em `_CLAUDE/logs/AAAA-MM-DD.md`.
