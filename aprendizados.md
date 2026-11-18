@@ -26,6 +26,9 @@ atualizado: 2026-11-15
 - ICMS na NF de entrada: alíquota cheia + percentual de redução da base. Não usar a alíquota "quebrada" (5,6%, 8,8%).
 - Depois de validado o 1º draft da DUIMP, só a cotação do dólar pode mudar. NCM alterado sem aviso: questionar o despachante.
 - NCMs Prinoth: 8436.80.00 e 8432.80.00. A Prinoth emite declaração de origem REX (origem preferencial UE).
+- 2026-11-18 — A partir de hoje, pedir à Prinoth faturamento com NCM **8436.80.00** para cabeçotes. Unidade já importada: usar na NF de saída o NCM da DUIMP dela e confirmar com o contador (Celso).
+- 2026-11-18 — Crédito de ICMS da importação entra **uma vez só**: ou o custo do cabeçote fica sem o ICMS (nota menos crédito) e o ICMS de saída entra cheio, ou o custo fica com o ICMS e o de saída entra líquido. Nunca os dois (revisão do ChatGPT na proposta Quavo, validada pelo Celso).
+- 2026-11-18 — Venda dentro de SP: sem alíquota de 4% e sem DIFAL na proposta, contribuinte ou não (revisão Quavo).
 
 ## Organização
 - 2026-11 — Não alterar nada no Google Drive sem autorização expressa do Celso.
