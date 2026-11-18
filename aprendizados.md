@@ -18,6 +18,8 @@ atualizado: 2026-11-15
 ## Comercial
 - Arquivos de proposta: `MARCA_MODELO_AAMMDDHHMM_EMPRESA`.
 - TM Serviços (Joaçaba/SC) foi só uma proposta, **não concluída**. Não tratar como cliente ativo.
+- 2026-11-15 — Território: SPARTA BRASIL vende só no Brasil. No exterior, a entidade é **Celso Kossaka, representante oficial da Prinoth GmbH** (ex.: COMASA, CRAISA). Nunca apresentar a SPARTA como vendedora fora do Brasil (Celso).
+- 2026-11-15 — Shearex: a SPARTA pode vender, mas **não divulgar**. Fora do site, das apresentações, da newsletter e das redes. Motivo: problemas com o equipamento e com a direção da Shearex, e imagem desgastada no mercado brasileiro (Celso).
 
 ## Importação e fiscal
 - Trabalhar a partir da Invoice, do draft e do rascunho da NF. **Não** usar o XML do despachante, que veio com valores e alíquotas errados.
@@ -31,5 +33,4 @@ atualizado: 2026-11-15
 - Cofre SPARTA e cofre pessoal são separados.
 
 ## A confirmar com o Celso
-- [ ] Shearex: a SPARTA ainda representa? Em nov/2026 ela foi retirada da descrição da empresa no briefing semanal.
 - [ ] Lamtrac e Westtech: são linhas fixas ou só negócios pontuais?

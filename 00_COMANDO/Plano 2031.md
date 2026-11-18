@@ -28,7 +28,9 @@ atualizado: 2026-11-15
 
 ## Ponto de partida (nov/2026)
 - Faturamento anual em torno de R$ 6 MM. Lucro Presumido. Operação desde jan/2024.
-- Linhas: Prinoth (trituradores e cabeçotes), Dipperfox (destocadores). Status da Shearex a confirmar.
+- Linhas: Prinoth (trituradores e cabeçotes) e Dipperfox (destocadores). A Shearex pode ser vendida, mas não é divulgada.
+- Território: a SPARTA atua só no Brasil. No exterior, a representação Prinoth é do Celso como pessoa (COMASA, CRAISA).
+- [ ] **Questão para o Plano 2031:** na venda ou entrada de sócios, a representação Prinoth no exterior entra no pacote ou fica com o Celso?
 - Plano anterior: 3 anos com meta de R$ 12 MM+ de lucro líquido.
 
 ## Pilares de acompanhamento

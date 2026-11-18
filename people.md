@@ -32,6 +32,11 @@ autor: claude
 - **Quality Global** (Ribeirão Preto): fabricante de peças florestais, possível parceira da Forestec.
 - **CGC:** antiga contabilidade (rápida, porém automática e propensa a erro).
 
+## Clientes e prospects (contatos-chave)
+| Nome | Empresa | Local | Notas |
+|---|---|---|---|
+| Denys Roberto Brehmer | Madeireira (nome a confirmar) | Caçador/SC | Entrou na empresa recentemente e quer lançar a proposta do Raptor 500 |
+
 ## Mercado e talentos (radar)
 | Nome | Onde está | Por que importa |
 |---|---|---|
