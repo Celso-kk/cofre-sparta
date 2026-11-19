@@ -10,22 +10,22 @@ autor: claude
 > Nunca registrar dado pessoal sensível: só o que importa para o negócio.
 
 ## Equipe interna
-| Nome | Papel | Vínculo / base | Notas |
-|---|---|---|---|
-| Celso Kossaka | Diretor Executivo, dono | Jaguariúna/SP | Vendas, marketing, estratégia |
-| Clarissa | Administrativo e logística | CLT, escritório de Jaguariúna, não viaja | Filtra o WhatsApp comercial e da newsletter. Está assumindo a emissão das NFs de importação |
-| Vânia Passos | Consultora/gestora | Externa | Treina a Clarissa desde ~jun/2025. Formato atual até dez/2026, proposta para 2027 em renegociação |
-| Edmilson Martinez | Técnico de campo | PJ, Ribeirão Preto/SP | R$ 2,80/km + R$ 900/dia de campo. Indicou a Quality Global para a Forestec |
+| Nome              | Papel                      | Vínculo / base                           | Notas                                                                                             |
+| ----------------- | -------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Celso Kossaka     | Diretor Executivo, dono    | Jaguariúna/SP                            | Vendas, marketing, estratégia                                                                     |
+| Clarissa          | Administrativo e logística | CLT, escritório de Jaguariúna, não viaja | Filtra o WhatsApp comercial e da newsletter. Está assumindo a emissão das NFs de importação       |
+| Vânia Passos      | Consultora/gestora         | Externa                                  | Treina a Clarissa desde ~jun/2025. Formato atual até dez/2026, proposta para 2027 em renegociação |
+| Edmilson Martinez | Técnico de campo           | PJ, Ribeirão Preto/SP                    | R$ 2,80/km + R$ 900/dia de campo. Indicou a Quality Global para a Forestec                        |
 
 ## Fábricas e fornecedores
-| Nome | Empresa | Papel | Notas |
-|---|---|---|---|
-| Robert Hammerschmidt | Prinoth GmbH | Diretor de vendas | Unidade demo Raptor 100, Expoforest 2027 |
-| Michael Conrads | Prinoth GmbH | — | Pediu o business case completo da Expoforest |
-| Joel Bezzaborkin | Dipperfox (Estônia) | Técnico/comercial | Consultas de compatibilidade (ex.: SC600 em Descalvado) |
-| Luis Grigolon | Legcomex | Despachante aduaneiro | Ver pendências de importação em `01_ADM_FINANCAS` |
-| Andreia e Tamires | Unita | Contábil/tributário | Consultoria avulsa a R$ 300/hora |
-| Marco | Panthera | Sistema (ERP) | — |
+| Nome                 | Empresa             | Papel                 | Notas                                                   |
+| -------------------- | ------------------- | --------------------- | ------------------------------------------------------- |
+| Robert Hammerschmidt | Prinoth GmbH        | Diretor de vendas     | Unidade demo Raptor 100, Expoforest 2027                |
+| Michael Conrads      | Prinoth GmbH        | Diretor Pós vendas    | Pediu o business case completo da Expoforest            |
+| Joel Bezzaborkin     | Dipperfox (Estônia) | Técnico/comercial     | Consultas de compatibilidade (ex.: SC600 em Descalvado) |
+| Luis Grigolon        | Legcomex            | Despachante aduaneiro | Ver pendências de importação em `01_ADM_FINANCAS`       |
+| Andreia e Tamires    | Unita               | Contábil/tributário   | Consultoria avulsa a R$ 300/hora                        |
+| Marco                | Panthera            | Sistema (ERP)         | —                                                       |
 
 ## Empresas parceiras (sem contato nomeado)
 - **Lapa Corretora:** seguros e despachante do veículo (Fiat Toro), renovação em outubro.
@@ -33,8 +33,8 @@ autor: claude
 - **CGC:** antiga contabilidade (rápida, porém automática e propensa a erro).
 
 ## Clientes e prospects (contatos-chave)
-| Nome | Empresa | Local | Notas |
-|---|---|---|---|
+| Nome                  | Empresa                       | Local      | Notas                                                                 |
+| --------------------- | ----------------------------- | ---------- | --------------------------------------------------------------------- |
 | Denys Roberto Brehmer | Madeireira (nome a confirmar) | Caçador/SC | Entrou na empresa recentemente e quer lançar a proposta do Raptor 500 |
 
 ## Mercado e talentos (radar)
