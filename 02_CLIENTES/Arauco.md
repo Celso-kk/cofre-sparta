@@ -14,11 +14,15 @@ atualizado: 2026-11-15
 > ⚠️ Risco de concentração: em análise anterior, a Arauco representava ~99% da receita.
 
 ## Contatos
-| Nome | Área | Notas |
-|---|---|---|
-| *(a preencher)* | Operações / Silvicultura | |
-| | Engenharia / Manutenção de frota | |
-| | Diretoria | |
+| Nome               | Área                             | Notas |
+| ------------------ | -------------------------------- | ----- |
+| Laercio Couto      | Diretoria                        |       |
+| Luis Fiori         | Operações / Silvicultura         |       |
+| Nilton Mariano     | Engenharia / Manutenção de frota |       |
+| Fabiano            | Gerente de Compras               |       |
+| Valter Salles      | Assistente do Gerente de Compras |       |
+| Vitória Cavalcante | Compras PCM                      |       |
+| Jonathan Machado   | Supervisor do Almoxarifado       |       |
 
 ## Frota e equipamentos
 - Frota Prinoth Raptor e cabeçotes M550.
